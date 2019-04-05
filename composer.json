@@ -1,0 +1,19 @@
+{
+  "name": "tushar/salary-payment-date-calculator",
+  "description": "Simple command line salary payment date calculator.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Tushar Jagtap",
+      "email": "t.jagtap@easternenterprise.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "classmap": [
+      "app/src/"
+    ]
+  }
+}
